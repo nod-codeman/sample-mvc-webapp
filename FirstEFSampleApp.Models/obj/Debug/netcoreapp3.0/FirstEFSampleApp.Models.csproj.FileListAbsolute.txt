@@ -1,0 +1,8 @@
+C:\Users\nwojo\source\repos\FirstEFSampleApp\FirstEFSampleApp.Models\bin\Debug\netcoreapp3.0\FirstEFSampleApp.Models.deps.json
+C:\Users\nwojo\source\repos\FirstEFSampleApp\FirstEFSampleApp.Models\bin\Debug\netcoreapp3.0\FirstEFSampleApp.Models.dll
+C:\Users\nwojo\source\repos\FirstEFSampleApp\FirstEFSampleApp.Models\obj\Debug\netcoreapp3.0\FirstEFSampleApp.Models.csprojAssemblyReference.cache
+C:\Users\nwojo\source\repos\FirstEFSampleApp\FirstEFSampleApp.Models\obj\Debug\netcoreapp3.0\FirstEFSampleApp.Models.AssemblyInfoInputs.cache
+C:\Users\nwojo\source\repos\FirstEFSampleApp\FirstEFSampleApp.Models\obj\Debug\netcoreapp3.0\FirstEFSampleApp.Models.AssemblyInfo.cs
+C:\Users\nwojo\source\repos\FirstEFSampleApp\FirstEFSampleApp.Models\bin\Debug\netcoreapp3.0\FirstEFSampleApp.Models.pdb
+C:\Users\nwojo\source\repos\FirstEFSampleApp\FirstEFSampleApp.Models\obj\Debug\netcoreapp3.0\FirstEFSampleApp.Models.dll
+C:\Users\nwojo\source\repos\FirstEFSampleApp\FirstEFSampleApp.Models\obj\Debug\netcoreapp3.0\FirstEFSampleApp.Models.pdb
